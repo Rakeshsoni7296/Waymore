@@ -1,0 +1,1 @@
+# Waymore: A Blog website
