@@ -1,0 +1,145 @@
+@-webkit-keyframes rotateyr {
+  0% {
+      -webkit-transform: rotate(0deg);
+      -webkit-transform-origin: 50% 0% 0;
+  }
+  25% {
+    -webkit-transform: rotate(-10deg);
+    -webkit-transform-origin: 50% 0% 0;
+  }
+  50%{
+    -webkit-transform: rotate(0deg);
+    -webkit-transform-origin: 50% 0% 0;
+  }
+  75% {
+    -webkit-transform: rotate(10deg);
+    -webkit-transform-origin: 50% 0% 0;
+  }
+  100% {
+      -webkit-transform: rotate(0deg);
+      -webkit-transform-origin: 50% 0% 0;
+  }
+}
+@keyframes rotateyr {
+  0% {
+    -webkit-transform: rotate(0deg);
+    -webkit-transform-origin: 50% 0% 0;
+  }
+  25% {
+    -webkit-transform: rotate(-10deg);
+    -webkit-transform-origin: 50% 0% 0;
+  }
+  50%{
+    -webkit-transform: rotate(0deg);
+    -webkit-transform-origin: 50% 0% 0;
+  }
+  75% {
+    -webkit-transform: rotate(10deg);
+    -webkit-transform-origin: 50% 0% 0;
+  }
+  100% {
+      -webkit-transform: rotate(0deg);
+      -webkit-transform-origin: 50% 0% 0;
+  }
+}
+
+.card{
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  background: transparent;
+  border: none;
+  margin: 20px 5px;
+  color: #403A3A;
+}
+
+.img-content{
+  position: absolute;
+  background: rgba(200, 21, 75, 0.4);
+  width: 320px;
+  height: 240px;
+  display: flex;
+  align-items: flex-end;
+}
+
+.img-content div{
+  color: #fff;
+  background: #D7436F;
+  padding: 2px 40px;
+}
+
+.img img{
+  width: 320px;
+  height: 240px;
+}
+
+.blog--content{
+  margin-top: 5px;
+}
+
+.blog--content h2{
+  font-size: 20px;
+  width: 320px;
+  /* height: 48px; */
+  margin-bottom: 8px;
+  vertical-align: baseline;
+}
+
+.blog--content p{
+  width: 320px;
+}
+
+.card--footer{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 16px;
+
+}
+
+.card--footer a{
+  color: #D7436F;
+  font-weight: bold;
+}
+
+.user-info-card{
+  display: flex;
+  align-items: center;
+  color: #D7436F;
+  font-weight: bold;
+}
+
+.arrow-icon{
+  font-weight: bold;
+  font-size: 24px;
+}
+
+.user-info-card > div:first-child{
+  margin-right: 10px;
+}
+
+.ihuyyfgdytfasdasfdtaf > img{
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+}
+
+.linktoReaad{
+  display: flex;
+  align-items: center;
+}
+
+.linktoReaad span:first-child{
+  margin-right: 5px;
+}
+
+.linktoReaad:hover{
+  animation: rotateyr .3s linear infinite;
+  -webkit-animation: rotateyr .3s linear infinite;
+  -moz-animation: rotateyr .3s linear infinite;
+  animation-iteration-count: 2;
+}
+
+.linktoReaad:hover span:first-child {
+  margin-right: 8px;
+}

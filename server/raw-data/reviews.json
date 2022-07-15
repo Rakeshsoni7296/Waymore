@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "rating": 5,
+    "blog_id": 1, 
+    "user_id": 2,
+    "content": "Product is a fine one from Samsung. Product looks good but Flipkart description is misleading.This model does not have eco drum clean and smart check,these are for higher end models but that should not be deal breaker for most people.This is a basic model from Samsung that does its job well.Warranty information in Flipkart is also misleading."
+  },
+  {
+    "id": 2,
+    "rating": 3,
+    "blog_id": 1,
+    "user_id": 3,
+    "content": "Design and easy of operation are good. It's the glass door provided and glass is scratch resistant than fiber. Go for 7 kg variant of you can afford other wise this is enough. Water pressure is required for smooth operation. Watertank should be above 3 meters."
+  },
+  {
+    "id": 3,
+    "rating": 5,
+    "blog_id": 2,
+    "user_id": 2,
+    "content": "Bit Noisy compared to LG front load that I am using past 3 year. Does all the job what's expected. So no complains. It could have been better if the buttons are provided istead of sensor or touchscreen making it more user friendly."
+  },
+  {
+    "id": 4,
+    "rating": 3,
+    "blog_id": 3,
+    "user_id": 5,
+    "content": "First thanks to Flipkart. What a speed delivery and same day installation and demo has done. Amazing design and look. We are very happy to have this product. I recommend to go for this Product."
+  },
+  {
+    "id": 5,
+    "rating": 5,
+    "blog_id": 4,
+    "user_id": 2,
+    "content": "Liked it very much..really good and no complaints till date..should check about drum clean after 40washes as it is just one month that I have taken this and then I can add more points to this"
+  },
+  {
+    "id": 6,
+    "rating": 3,
+    "blog_id": 2,
+    "user_id": 6,
+    "content": "I bought it during the festival offers with exchange of of my old Electrolux washing machine.The price was only 14k after exchange I do not think I could have got this price in any store or online sites even amazon..Here are.my reviews"
+  },
+  {
+    "id": 7,
+    "rating": 4,
+    "blog_id": 3,
+    "user_id": 8,
+    "content": "Bit Noisy compared to LG front load that I am using past 3 year. Does all the job what's expected. So no complains. It could have been better if the buttons are provided istead of sensor or touchscreen making it more user friendly."
+  },
+  {
+    "id": 8,
+    "rating": 5,
+    "blog_id": 6,
+    "user_id": 9,
+    "content": "Smaller items like socks, kids clothes, gloves, underwear will get stuck in between the glass and drum space and will not rotate in the cycle. See the picture."
+  },
+  {
+    "id": 9,
+    "rating": 1,
+    "blog_id": 1,
+    "user_id": 6,
+    "content": "I wore this like one or two time.and its already damaged. Batta do not have this low quality. Its a second copy product i am sure. Waste of money do not buy"
+  },
+  {
+    "id": 10,
+    "rating": 4,
+    "blog_id": 6,
+    "user_id": 3,
+    "content": "Quality is good but according to the top its length should be a little more."
+  }
+]

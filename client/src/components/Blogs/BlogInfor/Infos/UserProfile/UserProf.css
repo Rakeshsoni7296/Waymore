@@ -1,0 +1,31 @@
+.user-kbjbsdgyt{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 400px;
+}
+
+.userImg-bfsdfy > img {
+  width: 100px;
+  height: 100px;
+}
+
+.iniusdhfuasaytsdfsjdof{
+  margin-top: 20px;
+}
+
+.iniusdhfuasaytsdfsjdof > button {
+  background: #D7436F;
+  border: 2px solid #D7436F;
+  padding: 8px 20px;
+  color: #fff;
+  border-radius: 4px;
+  font-size: 16px;
+  cursor: pointer;
+  font-weight: 700;
+}
+
+.iniusdhfuasaytsdfsjdof > button:hover{
+  color: #D7436F;
+  background: #fff;
+}

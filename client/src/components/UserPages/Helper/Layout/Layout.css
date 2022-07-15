@@ -1,0 +1,45 @@
+.overlay-cover{
+  width: 620px;
+  height: 620px;
+  background-color: rgba(200, 21, 75, 0.4);
+  position: absolute;
+  top: 0;
+  padding: 40px 50px 40px 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  color: #ddd;
+}
+
+.logo__class-contain > a > img{
+  width: 240px;
+}
+
+.text-content h2{
+  font-size: 20px;
+  margin-bottom: 8px;
+}
+
+.social-media-icon{
+  display: flex;
+}
+
+.social-media-icon div{
+  background: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+
+.social-media-icon div:nth-child(2){
+  margin: 0 20px;
+}
+
+.sidebar div > img {
+  width: 620px;
+  height: 620px;
+  object-fit: cover;
+}

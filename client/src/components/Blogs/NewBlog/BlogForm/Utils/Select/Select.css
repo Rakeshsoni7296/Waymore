@@ -1,0 +1,17 @@
+.select-box{
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 10px;
+}
+
+#choose-cart3563764{
+  padding: 8px 12px;
+  border-radius: 5px;
+  color: #D7436F;
+  border: 1px solid  #E8E8E8;
+  outline: none;
+}
+
+#choose-cart3563764:focus{
+  border: 1px solid #D7436F;
+}

@@ -1,0 +1,24 @@
+.register-tab{
+  display: flex;
+  align-items: center;
+  margin-top: 5px;
+   color: #4A5568;
+}
+
+.register-tab a{
+  display: flex;
+  align-items: center;
+  transition: all .3s;
+}
+
+.dir-arrow{
+  font-size: 24px;
+}
+
+.register-tab a:hover{
+  margin-left: 8px;
+}
+
+.register-tab a:hover .dir-arrow{
+  margin-left: 3px;
+}

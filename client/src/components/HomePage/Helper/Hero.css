@@ -1,0 +1,47 @@
+/* Utility Class */
+.btn{
+  color: #fff;
+  background: #D7436F;
+  border: 2px solid transparent;
+  border-radius: 5px;
+  font-size: 16px;
+  padding: 8px 54px;
+  font-weight: bold;
+}
+
+.btn:first-child{
+  margin-right: 36px;
+}
+
+
+.btn:hover{
+  background: #fff;
+  border-color: #D7436F;
+  color: #D7436F;
+}
+
+.hero-section {
+  display: flex;
+  margin: 20px 80px;
+  margin-right: 0;
+  align-items: center;
+  overflow-x: hidden;
+}
+
+.hero--content h2{
+  font-size: 44px;
+  margin-bottom: 16px;
+}
+
+.hero--content p{
+  font-size: 22px;
+  margin-bottom: 32px;
+}
+
+.hero-section  > div:last-child{
+  margin-right: -500px;
+}
+
+.hero-section  > div:last-child img{
+  height: 600px;
+}

@@ -1,0 +1,61 @@
+footer{
+  background: #fff;
+}
+
+.footer-container{
+  display: flex;
+  padding: 10px 80px;
+  padding-top: 20px;
+  margin-top: 50px;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo--side{
+  width: 500px;
+}
+
+.logo--side > div:first-child{
+  margin-bottom: 14px;
+}
+
+.footer-moto-content div:first-child{
+  font-weight: bold;
+  font-size: 18px;
+  margin-bottom: 8px;
+}
+
+.contact--icons{
+  width: 24px;
+  height: 24px;
+  margin-right: 10px;
+}
+
+.company{
+  width: 300px;
+}
+
+.company > div, .social--links > div {
+  margin: 5px 0;
+}
+
+.company > div > a, .social--links > div > a{
+  transition: all .3s ease-in-out;
+}
+
+.company > div > a:hover, .social--links > div > a:hover{
+  margin-left: 5px;
+}
+
+.tag--header{
+  font-weight: 700;
+  font-size: 16px;
+  margin-bottom: 8px;
+}
+
+.copyright{
+  text-align: center;
+  background: #D7436F;
+  color: #fff;
+  padding: 5px 0;
+}

@@ -5,6 +5,10 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-image: url('http://localhost:4500/img/others/greek-vase.jpeg');
+  background-position: center center;
+  background-repeat: repeat;
+  background-size: 12em;
 }
 
 code {

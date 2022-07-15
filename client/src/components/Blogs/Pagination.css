@@ -1,0 +1,23 @@
+.number-contianer{
+  display: flex;
+  justify-content: center;
+  margin: 48px 0;
+}
+
+.named-box{
+  width: 60px;
+  height: 60px;
+  border: 2px solid #BCBCBC;
+  margin: 0 16px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.active{
+  background: #C8154B;
+  border-color: #C8154B;
+  color: #fff;
+}

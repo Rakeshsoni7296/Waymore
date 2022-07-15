@@ -1,0 +1,69 @@
+.form-container{
+  width: fit-content;
+  display: flex;
+  position: relative;
+  color: #fff;
+  background: #fff;
+  align-items: center;
+  margin: 0 auto;
+  margin-top: 50px;
+}
+
+.login__form-container{
+  width: 620px;
+  height: 620px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.form--start{
+  color: #4A5568;
+}
+
+.user-choice{
+  display: flex;
+  justify-content: space-between;
+  margin: 16px 0;
+}
+
+#check-box{
+  margin-right: 5px;
+}
+
+.login-form-padding{
+  padding: 50px 30px;
+}
+
+.register-form-padding{
+  padding: 18px 30px;
+}
+
+.linera-box1231{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.linera-box1231 > .input-box{
+  flex: 1;
+}
+
+.linera-box1231 > .input-box:first-child{
+  margin-right: 16px;
+}
+
+.linera-box1231 > .input-box:last-child{
+  margin-left: 16px;
+}
+
+.privacy-policy{
+  display: flex;
+  align-items: center;  
+}
+
+#policy{
+  margin-right: 10px;
+  width: 18px;
+  height: 18px;
+}

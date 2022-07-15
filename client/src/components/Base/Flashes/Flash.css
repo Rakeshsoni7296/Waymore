@@ -1,0 +1,38 @@
+body{
+  overflow-x: hidden;
+}
+
+.error-box{
+  display: flex;
+  position: absolute;
+  top: 6px;
+  right: -100%;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+  padding: 3px 20px;
+  border-radius: 3px 0 0 3px;
+  transition: all .4s ease-in-out;
+}
+
+.error-box > div:first-child{
+  margin-right: 8px;
+}
+
+.error-box > div:last-child > img {
+  margin-top: 2px;
+  cursor: pointer;
+}
+
+/* Javascript Manipulate class */
+.active-error{
+  right: 0;
+}
+
+.error{
+  background: #C8154B;
+}
+
+.success{
+  background: #01A100;
+}

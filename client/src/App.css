@@ -1,1 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
 
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Roboto, sans-serif;
+}
+
+html{
+  scroll-behavior: smooth;
+}
+
+a{
+  color: #403A3A;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #D7436F;
+}
+
+input:-webkit-autofill {
+  -webkit-box-shadow:0 0 0 50px white inset; /* Change the color to your own background color */
+  -webkit-text-fill-color: #D7436F;
+  border: 1px solid #D7436F;
+  background: #fff !important;
+}
+
+input:-webkit-autofill:focus {
+  -webkit-box-shadow: 0 0 0 50px white inset;/*your box-shadow*/
+  -webkit-text-fill-color: #D7436F;
+}

@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "firstname": "Rakesh",
+    "lastname": "Soni",
+    "email": "rakesh@gmail.com",
+    "gender": "male",
+    "role": "admin",
+    "photo": "user-1.jpg",
+    "dob": "2001-02-20",
+    "password": "$2a$12$uZd.UrS9SRuL65i85DvUEOBuL7uiO3TqTc6mvzGYAaBrAdzJ4KnYC"
+  },
+  {
+    "id": 2,
+    "firstname": "Pritisha",
+    "lastname": "Somani",
+    "email": "pritisha@gmail.com",
+    "gender": "female",
+    "role": "user",
+    "photo": "user-2.png",
+    "dob": "2001-11-16",
+    "password": "$2a$12$uZd.UrS9SRuL65i85DvUEOBuL7uiO3TqTc6mvzGYAaBrAdzJ4KnYC"
+  },
+  {
+    "id": 3,
+    "firstname": "Rahul",
+    "lastname": "Agarwal",
+    "email": "rahul@gmail.com",
+    "gender": "male",
+    "role": "user",
+    "photo": "user-6.jpg",
+    "dob": "2001-02-24",
+    "password": "$2a$12$uZd.UrS9SRuL65i85DvUEOBuL7uiO3TqTc6mvzGYAaBrAdzJ4KnYC"
+  },
+  {
+    "id": 4,
+    "firstname": "Ayush",
+    "lastname": "Bhuradia",
+    "email": "ayush@gmail.com",
+    "gender": "male",
+    "role": "user",
+    "photo": "user-4.jpg",
+    "dob": "2000-01-31",
+    "password": "$2a$12$uZd.UrS9SRuL65i85DvUEOBuL7uiO3TqTc6mvzGYAaBrAdzJ4KnYC"
+  },
+  {
+    "id": 5,
+    "firstname": "Itee",
+    "lastname": "Agarwal",
+    "email": "admin@gmail.com",
+    "gender": "female",
+    "role": "admin",
+    "photo": "user-5.jpg",
+    "dob": "1999-01-01",
+    "password": "$2a$12$uZd.UrS9SRuL65i85DvUEOBuL7uiO3TqTc6mvzGYAaBrAdzJ4KnYC"
+  },
+  {
+    "id": 6,
+    "firstname": "Ishika",
+    "lastname": "Panwar",
+    "email": "ishika@gmail.com",
+    "gender": "female",
+    "role": "user",
+    "photo": "user-3.jpg",
+    "dob": "2002-04-07",
+    "password": "$2a$12$uZd.UrS9SRuL65i85DvUEOBuL7uiO3TqTc6mvzGYAaBrAdzJ4KnYC"
+  },
+  {
+    "id": 7,
+    "firstname": "Tushar",
+    "lastname": "Srivastava",
+    "email": "tushar@gmail.com",
+    "gender": "male",
+    "role": "admin",
+    "photo": "user-8.jpg",
+    "dob": "1998-10-12",
+    "password": "$2a$12$uZd.UrS9SRuL65i85DvUEOBuL7uiO3TqTc6mvzGYAaBrAdzJ4KnYC"
+  },
+  {
+    "id": 8,
+    "firstname": "Anurag",
+    "lastname": "Bansal",
+    "email": "anurag@gmail.com",
+    "gender": "male",
+    "role": "user",
+    "photo": "user-4.jpg",
+    "dob": "2001-09-04",
+    "password": "$2a$12$uZd.UrS9SRuL65i85DvUEOBuL7uiO3TqTc6mvzGYAaBrAdzJ4KnYC"
+  },
+  {
+    "id": 9,
+    "firstname": "Mayank",
+    "lastname": "Solanki",
+    "email": "mayank@gmail.com",
+    "gender": "male",
+    "role": "user",
+    "photo": "user-9.jpg",
+    "dob": "2000-05-11",
+    "password": "$2a$12$uZd.UrS9SRuL65i85DvUEOBuL7uiO3TqTc6mvzGYAaBrAdzJ4KnYC"
+  },
+  {
+    "id": 10,
+    "firstname": "Monika",
+    "lastname": "Sharma",
+    "email": "monika@gmail.com",
+    "gender": "female",
+    "role": "user",
+    "photo": "user-7.jpg",
+    "dob": "1999-11-11",
+    "password": "$2a$12$uZd.UrS9SRuL65i85DvUEOBuL7uiO3TqTc6mvzGYAaBrAdzJ4KnYC"
+  }
+]
