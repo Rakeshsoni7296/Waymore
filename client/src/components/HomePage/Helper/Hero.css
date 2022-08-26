@@ -31,11 +31,13 @@
 .hero--content h2{
   font-size: 44px;
   margin-bottom: 16px;
+  color: #333;
 }
 
 .hero--content p{
   font-size: 22px;
   margin-bottom: 32px;
+  color: #222;
 }
 
 .hero-section  > div:last-child{
