@@ -10,6 +10,7 @@
     9. Choose a peaceful typography
     10. Refactor the comment date in a usual way
     11. Make check of terms & conditions necessary before registering a new user
+    12. When database is dropped the refresh of browser make the user logout
 
 # To be implemented for Backend:
     1. Calculate total number of reviews by distinct users
