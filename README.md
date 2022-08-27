@@ -44,6 +44,7 @@ visit: http://localhost:3000
 
 # Home Page will look like
 ![Header](./imgs/img-header.PNG)
-![Blogs](./imgs/blogs.PNG)
+![Blogs-1](./imgs/blogs.PNG)
+![Blogs-2](./imgs/blogs-2.PNG)
 ![About_Company](./imgs/about-us.PNG)
 ![Footer](./imgs/footer.PNG)
