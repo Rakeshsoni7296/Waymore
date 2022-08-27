@@ -1,4 +1,4 @@
-# Waymore API
+# Waymore: A blog website
 A Beautiful website for content creators and daily readers to deliver thoughts among each other.
 
 ## Steps to run this project
