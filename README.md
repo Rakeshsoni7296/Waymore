@@ -1,17 +1,18 @@
 # Waymore API
 A Beautiful website for content creators and daily readers to deliver thoughts among each other.
 
-### Steps to run this project on windows
+### Steps to run this project
 
 ### Create a config.env file in the server directory
 ```
 cd server
-type nul > config.env
+type nul > config.env (CMD)
+ni config.env (Powershall)
 ```
 
 ### Add the following details in config.env file
 ```
-PORT
+PORT=4500
 NODE_ENV
 JWT_SECRET
 EXPIRES_IN
@@ -38,4 +39,11 @@ npm install
 ```
 in client directory: ".../client" npm start
 in server directory: ".../server" npm start
+visit: http://localhost:3000
 ```
+
+# Home Page will look like
+![Header](./imgs/img-header.PNG)
+![Blogs](./imgs/blogs.PNG)
+![About_Company](./imgs/about-us.PNG)
+![Footer](./imgs/footer.PNG)

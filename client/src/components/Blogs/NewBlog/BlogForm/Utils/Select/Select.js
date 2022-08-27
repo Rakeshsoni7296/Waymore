@@ -9,6 +9,7 @@ const Select = (props) => {
         defaultValue={`Select ${props.val}`}
         id="choose-cart3563764"
       >
+        <option value="">-------</option>
         <option value="nature">Nature</option>
         <option value="technology">Technology</option>
         <option value="politics">Politics</option>

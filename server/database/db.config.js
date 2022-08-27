@@ -1,7 +1,7 @@
 module.exports = {
   host: "localhost",
   user: "root",
-  password: "gsdfugudfkhbhfbhsdbfhkbsdfn",
-  db: "waymore_bloghfdjsgdhfsdhfghsdf",
+  password: "vzaykutmbfdgfghjghjghjghjnghnghjn",
+  db: "waymore_blogfgdgfdbhgfujyjngjkhjlkjjkljo",
   dialect: "mysql",
 };
