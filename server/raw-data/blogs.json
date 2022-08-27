@@ -6,7 +6,7 @@
     "likes": 12,
     "image": "blog-7.jpg",
     "ratingsAverage": 4.5,
-    "ratingsQuatity": 5,
+    "ratingsQuatity": 3,
     "user_id": 1,
     "slug": "The-Learning-Network"
   },
@@ -18,7 +18,7 @@
     "category": "Travel",
     "image": "blog-3.jpg",
     "ratingsAverage": 4.7,
-    "ratingsQuatity": 4,
+    "ratingsQuatity": 2,
     "user_id": 5,
     "slug": "New-England---Rhode-Island"
   },
@@ -30,7 +30,7 @@
     "image": "blog-1.jpg",
     "category": "Food",
     "ratingsAverage": 4.9,
-    "ratingsQuatity": 20,
+    "ratingsQuatity": 2,
     "user_id": 3,
     "slug": "Garlic-Cream-Bucatini-with-Peas-and-Asparagus"
   },
@@ -41,8 +41,8 @@
     "likes": 56,
     "image": "blog-5.jpg",
     "category": "Social",
-    "ratingsAverage": 4.1,
-    "ratingsQuatity": 30,
+    "ratingsAverage": 4.0,
+    "ratingsQuatity": 1,
     "user_id": 2,
     "slug": "10-Benefits-of-Virtual-Events-for-SaaS-Brands"
   },
@@ -53,8 +53,8 @@
     "likes": 100,
     "image": "blog-9.jpg",
     "category": "Technology",
-    "ratingsAverage": 4.9,
-    "ratingsQuatity": 60,
+    "ratingsAverage": 5.0,
+    "ratingsQuatity": 0,
     "user_id": 7,
     "slug": "Google's-Pixel-Watch-may-finally-be-on-its-way"
   },
@@ -65,8 +65,8 @@
     "likes": 78,
     "image": "blog-4.jpg",
     "category": "Politics",
-    "ratingsAverage": 4.8,
-    "ratingsQuatity": 45,
+    "ratingsAverage": 4.5,
+    "ratingsQuatity": 2,
     "user_id": 4,
     "slug": "Political-risks-of-land-acquisition-are-borne-by-states"
   },
@@ -77,8 +77,8 @@
     "likes": 16,
     "image": "blog-8.jpg",
     "category": "Nature",
-    "ratingsAverage": 4.5,
-    "ratingsQuatity": 10,
+    "ratingsAverage": 5,
+    "ratingsQuatity": 0,
     "user_id": 10,
     "slug": "CSIS-Human-Nature-Blog"
   },
@@ -89,8 +89,8 @@
     "likes": 16,
     "image": "blog-6.jpg",
     "category": "Motivation",
-    "ratingsAverage": 4.5,
-    "ratingsQuatity": 10,
+    "ratingsAverage": 5,
+    "ratingsQuatity": 0,
     "user_id": 6,
     "slug": "Never-Give-Up"
   }
