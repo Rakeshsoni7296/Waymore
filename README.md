@@ -42,6 +42,14 @@ in server directory: ".../server" npm start
 visit: http://localhost:3000
 ```
 
+## For importing test-data in the site
+```
+in server directory: ".../server" cd raw-data
+run: node import-data.js --delete
+run: node import-data.js --import
+password for all email addresses: test1234
+```
+
 ## Home Page will look like
 ![Header](./imgs/img-header.PNG)
 ![Blogs-1](./imgs/blogs.PNG)
