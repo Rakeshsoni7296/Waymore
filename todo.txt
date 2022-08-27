@@ -2,7 +2,7 @@
     1. Search
     2. Blog Page based on category
     3. My Account 
-    4. My Blogs
+    4. My Blogs, Update Blog, Delete Blog
     5. Change Password, Forgot Password
     6. Login with Google
     7. Activate Footer's Social platform links
@@ -11,6 +11,8 @@
     10. Refactor the comment date in a usual way
     11. Make check of terms & conditions necessary before registering a new user
     12. When database is dropped the refresh of browser make the user logout
+    13. Admin Dashboard
+    14. Like the blog and reply a comment
 
 # To be implemented for Backend:
     1. Calculate total number of reviews by distinct users
