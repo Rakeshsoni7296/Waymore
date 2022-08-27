@@ -1,0 +1,15 @@
+# To be implemented for front end as well as backend:
+    1. Search
+    2. Blog Page based on category
+    3. My Account 
+    4. My Blogs
+    5. Change Password
+    6. Login with Google
+    7. Activate Footer's Social platform links
+    8. About Us, Privacy Policy & Terms & condition Page
+    9. Choose a peaceful typography
+    10. Refactor the comment date in a usual way 
+
+# To be implemented for Backend:
+    1. Calculate total number of reviews by distinct users
+    2. Calculate the averageRating for a Blog 
