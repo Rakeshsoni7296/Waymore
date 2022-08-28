@@ -13,7 +13,3 @@
     12. When database is dropped the refresh of browser make the user logout
     13. Admin Dashboard
     14. Like the blog and reply a comment
-
-# To be implemented for Backend:
-    1. Calculate total number of reviews by distinct users
-    2. Calculate the averageRating for a Blog

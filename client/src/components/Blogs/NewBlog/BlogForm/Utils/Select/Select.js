@@ -10,12 +10,12 @@ const Select = (props) => {
         id="choose-cart3563764"
       >
         <option value="">-------</option>
-        <option value="nature">Nature</option>
-        <option value="technology">Technology</option>
-        <option value="politics">Politics</option>
-        <option value="food">Food</option>
-        <option value="travel">Travel</option>
-        <option value="education">Education</option>
+        <option value="Nature">Nature</option>
+        <option value="Technology">Technology</option>
+        <option value="Politics">Politics</option>
+        <option value="Food">Food</option>
+        <option value="Travel">Travel</option>
+        <option value="Education">Education</option>
       </select>
     </div>
   );
