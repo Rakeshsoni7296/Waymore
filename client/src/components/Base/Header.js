@@ -1,4 +1,5 @@
 import React, { useState, useContext } from "react";
+import axios from "axios";
 import { useNavigate } from "react-router-dom";
 import AuthContext from "../../Context/Auth/auth-context";
 import Dropdown from "./Auxiliary/Dropdown";
@@ -70,9 +71,19 @@ const Header = () => {
     setShowProfDropdown((prev) => !prev);
   };
 
-  const logoutHandler = () => {
+  const logoutHandler = async() => {
     console.log(`I am logging out`);
     authCtx.logout();
+    try {
+      await axios({
+        url: `http://localhost:4500/api/v1/users/logout`,
+        withCredentials: true,
+        method: "POST",
+      });
+      window.location.reload();
+    } catch (err) {
+      console.log(err);
+    }
     navigate("/");
   };
 

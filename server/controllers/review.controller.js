@@ -17,8 +17,6 @@ exports.getAllReviews = factory.getAll(Review);
 exports.createReview = catchAsync(async (req, res, next) => {
   const blog = await Blog.findByPk(req.body.blog_id);
 
-  console.log(req.user);
-
   if (!req.user)
     return next(new AppError("Please signin to create review.", 401));
 
@@ -37,6 +35,19 @@ exports.createReview = catchAsync(async (req, res, next) => {
       },
     ],
   });
+  const currAverageRatings = (blog.ratingsAverage * blog.ratingsQuatity + Number(req.body.rating)) / (blog.ratingsQuatity + 1);
+  await Blog.update(
+    {
+      ratingsAverage: currAverageRatings.toFixed(1),
+      ratingsQuatity: blog.ratingsQuatity + 1,
+    },
+    {
+      where: {
+        id: req.body.blog_id,
+      },
+    }
+  );
+
   res.status(201).json({
     status: "success",
     data: {

@@ -47,7 +47,7 @@ const Blog = sequelize.define(
     },
     ratingsAverage: {
       type: DataTypes.FLOAT,
-      defaultValue: 5,
+      defaultValue: 5.0,
     },
     ratingsQuatity: {
       type: DataTypes.INTEGER,

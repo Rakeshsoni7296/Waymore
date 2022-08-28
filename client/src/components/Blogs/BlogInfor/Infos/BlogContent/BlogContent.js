@@ -20,7 +20,7 @@ const BlogContent = (props) => {
           <div className="hugyftrtfty">
             <img src="http://localhost:4500/icons/star-fill.svg" alt="star" />
           </div>
-          <div>({props.blog.ratingsQuatity} People)</div>
+          <div>({props.blog.ratingsQuatity} reviews)</div>
         </div>
         <div className="blog-cont-fuygyf">{props.blog.content}</div>
       </div>
