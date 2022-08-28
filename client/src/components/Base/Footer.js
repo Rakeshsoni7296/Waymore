@@ -51,16 +51,16 @@ const Footer = function () {
         <div className="social--links">
           <div className="tag--header">Follow Us On:</div>
           <div>
-            <a href="https://www.instagram.com/rakeshsoni6373/">Instagram</a>
+            <a href="https://www.instagram.com/rakeshsoni6373/" target="_blank" rel="noreferrer">Instagram</a>
           </div>
           <div>
-            <a href="https://www.facebook.com/profile.php?id=100026666043078">Facebook</a>
+            <a href="https://www.facebook.com/profile.php?id=100026666043078" target="_blank" rel="noreferrer">Facebook</a>
           </div>
           <div>
-            <a href="https://twitter.com/RakeshS60960300">Twitter</a>
+            <a href="https://twitter.com/RakeshS60960300" target="_blank" rel="noreferrer">Twitter</a>
           </div>
           <div>
-            <a href="true">LinkedIn</a>
+            <a href="https://www.linkedin.com/in/rakesh-soni-087b99200/" target="_blank" rel="noreferrer">LinkedIn</a>
           </div>
         </div>
       </div>
