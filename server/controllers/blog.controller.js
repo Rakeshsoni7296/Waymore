@@ -47,17 +47,8 @@ exports.getAllBlogs = catchAsync(async (req, res, next) => {
       as: "user",
       model: User,
       attributes: ["firstname", "photo"],
-      required: true,
     },
   };
-
-  if (req.user) {
-    findConds.where.user_id = {
-      [sequelize.Op.not]: req.user.id,
-    };
-  }
-
-  console.log(req.user);
 
   if (+req.query.page > 0) {
     findConds.limit = 8;
@@ -65,12 +56,10 @@ exports.getAllBlogs = catchAsync(async (req, res, next) => {
   }
 
   const blogs = await Blog.findAll(findConds);
-  const records = await Blog.count();
 
   res.status(200).json({
     status: "success",
     results: blogs.length,
-    records,
     data: {
       blogs,
     },
