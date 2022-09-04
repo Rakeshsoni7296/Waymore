@@ -13,3 +13,5 @@
     12. When database is dropped the refresh of browser make the user logout
     13. Admin Dashboard
     14. Like the blog and reply a comment
+    15. Implement Remember me
+    16. Implement Terms & conditions check while creating a new account
